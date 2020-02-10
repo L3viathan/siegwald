@@ -1,0 +1,23 @@
+For reasons™, I was "recently" looking at old German names. This is a generator
+for them, including their meaning, for example:
+
+    Eckhold             (Der Schwertwaltende)
+    Ludolf              (Der ruhmvolle Wolf)
+    Kunigund            (Die Kämpferin für die Sippe)
+    Meinlieb            (Der mächtige Sohn)
+    Adelborg            (Die edle Geborgene)
+    Widuerike           (Die Reiche des Waldes)
+    Meinrid             (Die mächtige Reiterin)
+    Ganggard            (Die Kampfschützerin)
+    Kunimont            (Der Schützer)
+    Erwiga              (Die ehrwürdige Kämpferin)
+    Ratbrand            (Der beratende Kämpfer)
+    Neidav              (Der grimmige Ordner)
+    Chlodard            (Der berühmte Berater)
+    Hildebett           (Die Schwertgeweihte)
+    Ludhilde            (Die ruhmvolle Kämpferin)
+    Friedberta          (Die beschützende Glänzende)
+    Godsine             (Die Gotteswissende)
+    Kuniburg            (Die Schützerin für die Sippe)
+    Godhild             (Die Gotteskämpfende)
+    Hinrid              (Die Heimreiterin)
